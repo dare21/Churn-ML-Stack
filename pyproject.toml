@@ -1,0 +1,11 @@
+[project]
+name = "churn-ml-stack"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.9"
+dependencies = [
+    "notebook>=7.5.5",
+    "numpy>=2.0.2",
+    "polars>=1.36.1",
+    "scikit-learn>=1.6.1",
+]
